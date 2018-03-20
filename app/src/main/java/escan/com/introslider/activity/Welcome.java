@@ -1,4 +1,4 @@
-package escan.com.introslider;
+package escan.com.introslider.activity;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -13,6 +13,10 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import escan.com.introslider.adapter.MyViewPagerAdapter;
+import escan.com.introslider.Utility.PrefManager;
+import escan.com.introslider.R;
 
 public class Welcome extends AppCompatActivity {
     private ViewPager viewPager;

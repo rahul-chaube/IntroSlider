@@ -3,6 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    
+    <!--Home Screen Style Color-->
+    <color name="cyan_500">#00BCD4</color>
+    <color name="cyan_300">#4DD0E1</color>
+
 
     <!--Srceen Background Color-->
     <color name="bg_screen1">#f64c73</color>

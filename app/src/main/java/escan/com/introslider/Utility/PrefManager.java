@@ -1,4 +1,4 @@
-package escan.com.introslider;
+package escan.com.introslider.Utility;
 
 import android.content.Context;
 import android.content.SharedPreferences;
